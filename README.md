@@ -2,7 +2,7 @@
 
 Simple React App which upload drag 'n' drop file to given URL.
 
-##Demo
+## Demo
 
 ![](./docs/images/demo.gif)
 
